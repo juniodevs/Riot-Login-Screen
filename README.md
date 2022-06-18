@@ -6,4 +6,4 @@ Login feito em JavaScript, HTML e CSS
 
 # Tutorial
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tyVvNj-UvxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+Manual do Dev: https://www.youtube.com/watch?v=tyVvNj-UvxM&t
